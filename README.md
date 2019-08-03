@@ -1,1 +1,1 @@
-Simple dotfiles configuration
+dotfiles configuration
